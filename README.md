@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Monteiro</h1>
-<h3 align="center">A passionate Java developer from Brazil.</h3>
+<h3 align="center">Just a Brazilian Java developer</h3>
 
 <p align="left"> <a href="https://twitter.com/eokasta" target="blank"><img src="https://img.shields.io/twitter/follow/eokasta?logo=twitter&style=for-the-badge" alt="eokasta" /></a> </p>
 
